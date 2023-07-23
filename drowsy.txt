@@ -1,0 +1,5 @@
+in this code we have used CNN(Convolution neural networks) algo
+we have used opencv and many other libraries in it like dlib, scipy_spatial,imutils,face utils,pygame
+scipy.spatial.distance is used to compute the distance between eyes
+EAR is the eye aspect ratio
+threshold time is 0.25 total frames are 20 if the value of threshold is less than 0.25 then it will make you alert and a sound will compe 
