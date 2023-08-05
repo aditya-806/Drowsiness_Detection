@@ -31,10 +31,13 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 To run the code, type `python Drowsiness_Detection.py`
 
 ```
-python Drowsiness_Detection.py
+python Drowsiness_Detection.p
 ```
+
+Open Eyes-
 ![image](https://github.com/aditya-806/Drowsiness_Detection/assets/126506636/352cfbad-6646-4708-8cd4-d68d708f6fb7)
 
+Drowsy Eyes-
 ![image](https://github.com/aditya-806/Drowsiness_Detection/assets/126506636/0e7ae0bb-91ab-404a-978a-d61db7f95ba2)
 
 
